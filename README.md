@@ -64,3 +64,16 @@ Boosts Conversions – A smooth, intuitive flow encourages more completed bookin
 Minimizes Errors – Clear forms, error messages, and validation prevent booking mistakes.
 
 Enhances User Satisfaction – Positive experiences lead to repeat users and referrals.
+
+# Project Roles and Responsibilities
+
+| Role | Key Responsibilities | Contribution to Project Success |
+|------|-------------------|--------------------------------|
+| **Project Manager (PM)** | - Plan, monitor, and track project progress<br>- Allocate resources and manage timelines<br>- Coordinate between team members and stakeholders | Ensures the project is delivered on time, within scope, and meets quality standards |
+| **Frontend Developer** | - Implement UI designs using HTML, CSS, JS, and frameworks (React, Vue, etc.)<br>- Ensure responsive and accessible interfaces<br>- Integrate frontend with backend APIs | Delivers a functional, visually appealing, and user-friendly interface for users |
+| **Backend Developer** | - Build server-side logic, APIs, and database management (Node.js, Express, MongoDB)<br>- Ensure secure authentication and data handling<br>- Handle business logic and integration with frontend | Provides reliable, scalable, and secure functionality for core application features like bookings, listings, and user accounts |
+| **Designer (UI/UX)** | - Create wireframes, mockups, and prototypes<br>- Define visual style, typography, and color schemes<br>- Ensure smooth user experience and navigation | Enhances user satisfaction by designing an intuitive, attractive, and easy-to-use interface |
+| **QA / Tester** | - Write and execute test cases<br>- Identify bugs and performance issues<br>- Validate that features meet project requirements | Ensures the app works correctly, maintains quality standards, and prevents issues from reaching users |
+| **DevOps Engineer** | - Set up deployment pipelines, CI/CD, and server infrastructure<br>- Monitor performance and uptime<br>- Automate deployments and backups | Ensures smooth, reliable deployment, scalability, and maintenance of the application |
+| **Product Owner (PO)** | - Define project vision and goals<br>- Prioritize features and backlog items<br>- Act as a liaison between client/stakeholders and development team | Guides development according to business priorities and user needs, keeping the project aligned with client expectations |
+| **Scrum Master** | - Facilitate daily stand-ups, sprint planning, and retrospectives<br>- Remove blockers for the team<br>- Promote Agile best practices | Helps the team work efficiently, encourages collaboration, and ensures smooth Agile workflow |
