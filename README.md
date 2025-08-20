@@ -77,3 +77,16 @@ Enhances User Satisfaction – Positive experiences lead to repeat users and ref
 | **DevOps Engineer** | - Set up deployment pipelines, CI/CD, and server infrastructure<br>- Monitor performance and uptime<br>- Automate deployments and backups | Ensures smooth, reliable deployment, scalability, and maintenance of the application |
 | **Product Owner (PO)** | - Define project vision and goals<br>- Prioritize features and backlog items<br>- Act as a liaison between client/stakeholders and development team | Guides development according to business priorities and user needs, keeping the project aligned with client expectations |
 | **Scrum Master** | - Facilitate daily stand-ups, sprint planning, and retrospectives<br>- Remove blockers for the team<br>- Promote Agile best practices | Helps the team work efficiently, encourages collaboration, and ensures smooth Agile workflow |
+
+# UI Component Patterns
+
+| Component | Description |
+|-----------|-------------|
+| **Navbar** | The top navigation bar visible on all pages, including links to Home, Listings, Login/Signup, and Profile. Provides easy navigation and access to key sections. |
+| **Property Card** | Displays individual property information such as image, title, location, price, and rating. Used on the Property Listing page to showcase multiple listings. |
+| **Property Listing Page** | A page layout component that organizes multiple Property Cards into a grid or list view for easy browsing. Includes filters and search options. |
+| **Property Detail View** | Shows detailed information about a selected property, including images carousel, description, amenities, host info, and booking options. |
+| **Simple Checkout View** | Handles the booking process, including selecting dates, viewing pricing, and completing payment securely. |
+| **Footer** | A site-wide footer containing links to About, Contact, Terms & Privacy, and social media profiles. Enhances site navigation and credibility. |
+| **Buttons & Forms** | Reusable components for actions like booking, login/signup, and search forms, designed consistently across the app. |
+| **Modals / Pop-ups** | For login prompts, booking confirmations, or alerts. Ensures smooth user interaction without leaving the page. |
