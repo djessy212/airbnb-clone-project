@@ -24,8 +24,6 @@ The primary goal is to create a functional, scalable, and modern web application
 
 # UI/UX Design Planning
 
-## 🎨 UI/UX Design Planning
-
 ### Design Goals
 - **User-Friendly Interface** – Easy to navigate, minimizing friction for browsing and booking properties.  
 - **Responsive Design** – Works on desktop, tablet, and mobile devices.  
