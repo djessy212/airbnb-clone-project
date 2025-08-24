@@ -1,4 +1,4 @@
-# Airbnb Clone
+# StayEase Airbnb Clone
 
 ## 📌 Overview
 This project is a clone of **Airbnb**, built to practice and demonstrate full-stack web development skills.  
